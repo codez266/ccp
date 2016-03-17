@@ -1,0 +1,20 @@
+C Compiler using YACC
+=====================
+To do:
+[] * struct
+[] * postfix, prefix
+[] * Function multiple parameters
+[] * struct, enums
+[] * storage class
+[] * type qualifier
+[] * pointers
+[] * assignment
+[] * Conditional
+[] * Relational
+[] * cast
+[] * sizeof
+[] * switch
+[] * do while
+[] * jump, break, continue, return
+[] * case default
+[] * declarator
